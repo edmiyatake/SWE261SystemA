@@ -8,7 +8,8 @@ and write the output to a text file called OutputA.csv in a Sink Filter. Format 
 
 Instructions:
 
-1. unzip the folder and open a terminal with the directory containing "SWE264SystemA"
+1. unzip the folder and open a terminal with the directory containing "SWE261SystemA"
+1*. I accidently named it SWE261 over 264 and I really didn't want to change the whole repository / reroute everything on git
 2. Compile the necessary java files by running javac *.java into the designated terminal
 3. Run the Plumber class by running "java Plumber"
 4. The output is written onto a text file called "OutputA.csv.txt"
