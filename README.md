@@ -1,10 +1,14 @@
 # SWE261SystemA
+Edwin Miyatake
 
 Task: Design and Construction
 
 Your task is to use the existing frameworks as the basis for creating a new system. Revise the sample pipe-and-filter network to read the data stream in FlightData.dat file in a Source Filter
 and write the output to a text file called OutputA.csv in a Sink Filter. Format the output as follows (no need to round the values). 
 
+Operating System: Windows 11 Version 23H2
+Computer Architecture: AMD64
+IDE: Visual Studio Code 1.96.4
 
 Instructions:
 
